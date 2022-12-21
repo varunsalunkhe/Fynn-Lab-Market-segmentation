@@ -1,1 +1,1 @@
-# Fynn-Lab-project2
+# Fynn-Lab-Market-Segmentation
